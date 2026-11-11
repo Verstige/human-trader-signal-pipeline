@@ -1,0 +1,19 @@
+{
+  "name": "human-trader-signal-pipeline",
+  "description": "Add a human-trader role to an otherwise automated trading signal pipeline. A hired trader signs into the community, gets badged, mirrors to a channel, and lands in a public signal log.",
+  "owner": {
+    "name": "Julylan Johnson",
+    "url": "https://github.com/Verstige"
+  },
+  "metadata": {
+    "description": "Add a human-trader role to an otherwise automated trading signal pipeline. A hired trader signs into the community, gets badged, mirrors to a channel, and lands in a public signal log.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "human-trader-signal-pipeline",
+      "source": "./plugins/human-trader-signal-pipeline",
+      "description": "Add a human-trader role to an otherwise automated trading signal pipeline. A hired trader signs into the community, gets badged, mirrors to a channel, and lands in a public signal log."
+    }
+  ]
+}
